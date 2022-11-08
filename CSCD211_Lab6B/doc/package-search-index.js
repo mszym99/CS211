@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"lab6.cscd211Comparator"},{"l":"lab6.cscd211Inheritance"},{"l":"lab6.cscd211Lab6"}]
